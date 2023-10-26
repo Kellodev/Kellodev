@@ -1,6 +1,6 @@
-Yo, im @Kellodev
-I like web developement
-im learning web developement
+Yo, im @Kellodev (they/him),
+I like web developement,
+im learning web developement,
 my discord is kellodev
 
 <!---
